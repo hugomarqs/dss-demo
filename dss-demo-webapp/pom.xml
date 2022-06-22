@@ -468,11 +468,7 @@
 			<version>9.0.62</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>eu.europa.ec.joinup.sd-dss</groupId>
-			<artifactId>dss-demo-webapp</artifactId>
-			<version>5.10.1</version>
-		</dependency>
+
 
 	</dependencies>
 
